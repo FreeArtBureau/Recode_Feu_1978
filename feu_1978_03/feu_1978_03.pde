@@ -12,7 +12,7 @@ Project Information
 >>> http://recodeproject.com/
 >>> www.freeartbureau.org
 
-Version_02 : Bernard Demiaux 2013
+Version_03 : Bernard Demiaux 2013
 ***************************
 */
 
